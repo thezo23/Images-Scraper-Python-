@@ -1,2 +1,6 @@
-*.txt
+imgur_logs.txt
+lightshot_logs.txt
+sendspace_logs.txt
+sendspace_working_links.txt
+wetransfer_logs.txt
 .pictures
